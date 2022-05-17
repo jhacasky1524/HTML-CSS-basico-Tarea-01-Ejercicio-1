@@ -1,0 +1,12 @@
+body{
+    background-color:mediumpurple;
+    color:rebeccapurple;
+    font-size: 18px;
+    font-style: tahoma;
+    line-height:1.5;
+}
+.link{
+    background-color: white;
+    color:black;
+    font-size:15px
+}
